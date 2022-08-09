@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Mystery+Quest");
+
+div{
+      border-radius: 7px;
+}
+
+header :nth-child(1){
+    background-color: blue;
+}
+header :nth-child(2){
+    background-color: royalblue;
+}
+header :nth-child(3){
+    background-color: cyan;
+}
+
+header :nth-child(5){
+font-family: Mystery Quest;
+}
+
+header :nth-child(6){
+    
+    box-shadow: 4px 4px 7px black;
+}
